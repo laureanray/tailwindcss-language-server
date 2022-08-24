@@ -4,4 +4,4 @@ Tailwind language server for Neovim. This is based on this blog https://dyrynda.
 
 ## Installation
 
-**[Install via the Visual Studio Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**
+TBD
